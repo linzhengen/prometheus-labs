@@ -1,0 +1,5 @@
+# Url to access prometheus
+prometheus:
+  # Value is templated
+  url: http://prometheus-server.prometheus.svc.cluster.local
+  port: 80
