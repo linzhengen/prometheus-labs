@@ -2,3 +2,4 @@ helmfiles:
   - path: grafana/helmfile.yaml
   - path: prometheus/helmfile.yaml
   - path: prometheus-adapter/helmfile.yaml
+  - path: kube-prometheus-stack/helmfile.yaml
